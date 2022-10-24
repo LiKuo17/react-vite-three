@@ -7,9 +7,7 @@ Three.js + React Hooks + TypeScript
 <img src="./src/assets/Snipaste_2022-10-24_17-05-35.png" />
 
 运行项目
-1.
-yarn install
+1.yarn install
 
-2.
-yarn dev
+2.yarn dev
 
