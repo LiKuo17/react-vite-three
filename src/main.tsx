@@ -7,7 +7,7 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <RecoilRoot>
     <React.StrictMode>
-      <App />
+      <App /> 
     </React.StrictMode>
   </RecoilRoot>
 )
